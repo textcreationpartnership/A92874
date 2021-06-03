@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seek and you shall find; or, Certaine queryes of highest import. Most humbly tendered to be considered as no little conducing to the laying a foundation of a more rigrteous [sic] government and true Christian Common-Wealth.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92874</idno><idno type="EEBO-CITATION">99866863</idno>
+  <idno type="VID">168708</idno>
+  <idno type="EEBO-PROQUEST">2240962876</idno>
+  
+            <idno type="STC">Wing S2409</idno>
+            <idno type="STC">Thomason E1000_4</idno>
+            <idno type="STC">ESTC R207835</idno>
+            <idno type="PROQUEST">99866863</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866863e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168708)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1000[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seek and you shall find; or, Certaine queryes of highest import. Most humbly tendered to be considered as no little conducing to the laying a foundation of a more rigrteous [sic] government and true Christian Common-Wealth.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, of care and fear. [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob 6. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168708:1"/>
+            <p>
+               <hi>SEEK and YOƲ SHALL FIND;</hi> OR, CERTAINE QUERYES OF Highest Import.</p>
+            <p>Most humbly tendered to be con<g ref="char:EOLhyphen"/>sidered on as no little conducing to the laying a foundation of a more <hi>RIGRTEOƲS</hi> GOVERNMENT▪ AND <hi>TRƲE CHRISTIAN</hi> COMMON-WEALTH.</p>
+            <lg>
+               <l>Printed in the year,</l>
+               <l>Of care and fear.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168708:2"/>
+            <pb n="1" facs="tcp:168708:2"/>
+            <p n="1">I. Query.</p>
+            <p>VVHether have not Parliaments of <hi>England</hi> in times past set up Popery? and whether may they not possibly do so again hereafter? whe<g ref="char:EOLhyphen"/>ther in case a Parliament should set up Popery,<note place="margin">Matth: 10. 28. Luke 12. 4, 5.</note> may <note n="*" place="margin">Rom: 14. 5. 22, 23.</note> they therein be disobeyed by the people? If they may be disobeyed in one particular, will not the people sooner learn thereby to disobey them in another? and whether are not the people▪ even every particular mans conscience absolute judge of the grounds for obeying or disobeying Parlia<g ref="char:EOLhyphen"/>ments in such cases?</p>
+            <p n="2">II. Query.</p>
+            <p>Whether is not the pretence of giving Parlia<g ref="char:EOLhyphen"/>ments a power to settle or provide for Religion, and yet reserve in our own Power an Evangelical, even an unconfiscable Prerogative, Judging whe<g ref="char:EOLhyphen"/>ther it be better to obey God than man, according as our own consciences stand▪ perswaded, be not an absolute contradiction? And whether they that attribute such a power to Parliaments as they themselves will question and disobey, when they think good, do not expose to questioning and in effect weaken &amp; quite enervate the Pow<g ref="char:EOLhyphen"/>er
+<pb n="2" facs="tcp:168708:3"/> of Parliaments, or else condemn themselves in censuring Independents, men of different judge<g ref="char:EOLhyphen"/>ments in matters of Religion, for with holding of obedience from Parliaments in matters of Re<g ref="char:EOLhyphen"/>ligion or Gods worship, wherein they never gave the Parliament, or meant to give them power.</p>
+            <p n="3">III. Query.</p>
+            <p>If the people of a Common-wealth in general may deny obedience unto Popish Acts or Ordinan<g ref="char:EOLhyphen"/>ces, or upon any other the like just occasion, and they themselves be Judges whether the occasion be just or no; Whether may not Independants, men of different perswasions most of those whose purses and hearts have continually ad-hered to this Parliament, the Souldiary that have valiantly fought for them, and the present Army who were the chief instruments under God of restoring this Parliament unto the free exercise of the trust re<g ref="char:EOLhyphen"/>posed in them by these Nations, being no small number or part of the Common-wealth, whether, I say, may not they do the like▪ in all respects? or whether ought they in case they were a lesser, part, so yeeld obedience to Popish Acts and Or<g ref="char:EOLhyphen"/>dinances, in case a major part approve of, and a<g ref="char:EOLhyphen"/>gree with a Parliament to establish them.</p>
+            <p n="4">IV. Query.</p>
+            <p>Whether would it not be a Godless course for a people to hazard any thing at the disposal of others, or to be swayed by most voices, which is the way of Parliaments, and may possibly, if not more then probably, be dicided in such a man<g ref="char:EOLhyphen"/>ner,
+<pb n="3" facs="tcp:168708:3"/> as yeelding obedience thereunto would prove a <hi>disquieting</hi> unto their Consciences, and <hi>sinful</hi>
+               <note place="margin">Rom: 14. 5. 22, 23.</note> to them whilest they lived, and <hi>damnable</hi> to their souls afterwards.</p>
+            <p n="5">V. Query.</p>
+            <p>Whether would it not be a comfortlesse if not an ungodly course for the people of this Com<g ref="char:EOLhyphen"/>mon-wealth, so far differing in matters of Religi<g ref="char:EOLhyphen"/>on, as that they profess before hand that they dare not yeeld to one another upon peril of damnation, to make choice of, or to be active in, restoring, abetting, and ayding of a Parliament in discharge of their trust wherein they had been interrupted▪ with intent, or Covenant to become afterwards all of such an opinion or Religion, as such Parliaments, by most voices, should agree on? and whether is it any whit lesse absurd than prophane for men to say they will be of such a Religion as shall be setled, before they have ex<g ref="char:EOLhyphen"/>amined and see evidence to convince them? and whether it be in the power of man to believe what he will, or really to be of any, much lesse of what Religion he will, before he see convin<g ref="char:EOLhyphen"/>cing reasons, and be fully perswaded of the verity thereof in his own judgment and conscience?</p>
+            <p n="6">VI. Query.</p>
+            <p>Whether if Parliaments may make Lawes for setting up a Religion with imposing in the things of Christ, or of their worship, establishing what Church Government they please, or the like; Whether were this otherwise, than to attribute unto a mixt multitude, even to the <note n="*" place="margin">John 15. 18. 19. &amp;c. 17. 9. 11. 14.</note> world, if
+<pb n="4" facs="tcp:168708:4"/> not absolutely, as it is distinguished from the Saints in Scripture; at least by most voices to make choice of a Religion, Lawes, and Discipline, wherewith the Saints, houshold, and Church of God must necessarily be governed?</p>
+            <p n="7">VII. Query.</p>
+            <p>Suppose a <hi>Protestant, Lutherane, Calvinist,</hi> or <hi>Independent</hi> of any sort, or any other differing in opinion; Whether may they out of hypocri<g ref="char:EOLhyphen"/>sie, or implicitly, submit and be conformable to one anothers Discipline or Doctrine, whereof they <hi>doubt,</hi> before they be convinced? Whether have either of them an <hi>infallible</hi> way to convince the other, and bring them over to be really and sin<g ref="char:EOLhyphen"/>cerely of their opinion or Religion? If they have any, why do they not hold it forth, and reduce it into practice? If they have not, why should they be offended with one or other if they continue differing in opinion.</p>
+            <p n="8">VIII. Query.</p>
+            <p>Whether opposing Gods people or their wayes be not a fighting against God? Whether it be not extream rashness, if not absolute madnesse and presumption to attempt any thing which may possibly prove a fighting against God? And whe<g ref="char:EOLhyphen"/>ther any man in these dayes can have a fuller as<g ref="char:EOLhyphen"/>surance in his own conscience, or give better evi<g ref="char:EOLhyphen"/>dence unto others that he doth not oppose the people of God, whilest he opposeth such as differ<note place="margin">Phil: 3. 8. Acts 26. 9.</note> from him in opinion; than <hi>Paul</hi> whilest he perse<g ref="char:EOLhyphen"/>cuted the Church, and thought he ought to doe many things contrary to the name of <hi>Jesus</hi> of <hi>Na<g ref="char:EOLhyphen"/>zareth?</hi>
+            </p>
+            <p n="9">
+               <pb n="5" facs="tcp:168708:4"/>IX. Query.</p>
+            <p>Whether have Parliaments that are truly Chri<g ref="char:EOLhyphen"/>stian or Evangelicall, any Power or Authority given them Magistratically to inter-meddle tou<g ref="char:EOLhyphen"/>ching Gods worship, or in any matters of Religi<g ref="char:EOLhyphen"/>on between God and a mans conscience? If yes; when was such power and Authority committed to them, by whom, when, and by what convey<g ref="char:EOLhyphen"/>ance? And whether in such case may they not be said to be as much masters of our faith as of our estates and persons? and ought not the people, in such cases dutifully to submit to have their Reli<g ref="char:EOLhyphen"/>gion, no lesse then their old Houses of Stone or Brick throughout the Common-wealth, dismant<g ref="char:EOLhyphen"/>led, demolished, or pulled down, and others of Sand or Loame to be new Erected and set up in<g ref="char:EOLhyphen"/>stead thereof?</p>
+            <p n="10">X. Query.</p>
+            <p>Whether have not Parliaments, power and Au<g ref="char:EOLhyphen"/>thority all alike? May not one Parliament repeal what a former Parliament Enacted to the worlds end? and whether then according as a good, bad or worse party shall prevaile in Parliament, must not the people be one while <hi>Papists,</hi> and another while <hi>Protestants,</hi> and after that <hi>Papists</hi> again, and then <hi>Protestants</hi> again, as it befel this <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor captivated Nation towards the end of <hi>Henry</hi> the 8. <hi>Edward</hi> the 6. Q: <hi>Mary,</hi> Q: <hi>Elizabeth,</hi> in as few years as this Parliament, hath lasted?</p>
+            <p n="11">XI. Query.</p>
+            <p>Whether is it not more reasonable and genou<g ref="char:EOLhyphen"/>rous as <hi>men,</hi> and far more Gospel-like as <hi>Christi<g ref="char:EOLhyphen"/>ans</hi>
+               <pb n="6" facs="tcp:168708:5"/> to suffer people to try the spirits, and examine all opinions, and so in judgement to leave one Re<g ref="char:EOLhyphen"/>ligion and professe another as they shall find themselves perswaded of the truth thereof in their own hearts; rather then for the Magistrate or Powers to force people from one Religion to another before they be convinced of the righte<g ref="char:EOLhyphen"/>ousness thereof, as the Kings and Queens afore<g ref="char:EOLhyphen"/>mentioned did, and as Parliaments will do the like again hereafter, if they accept of, or assume unto themselves, a power or Authority of impo<g ref="char:EOLhyphen"/>sing in matters of Religion?</p>
+            <p n="12">XII. Query.</p>
+            <p>And last of all, What more mischievous and desperate inlet unto all prophanesse and Atheism can there possibly be (so far as people are capeable of becoming down-right Atheists) than for the Powers to force the people into this or that Reli<g ref="char:EOLhyphen"/>gion or ways of worship before they can convince them? Or for any person to make profession thereof with his mouth, whilest his heart contin<g ref="char:EOLhyphen"/>ually cryeth out thou lyest?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
